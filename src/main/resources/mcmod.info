@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jimstoolbox",
+  "name": "Jim's Toolbox",
+  "description": "Example placeholder mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["portablejim"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,11 @@
+*-fml.txt
+.gradle/
+JimsToolbox.iml
+LICENSE-fml.txt
+MinecraftForge-*.txt
+PoolTools.ipr
+PoolTools.iws
+build/
+eclipse/
+forge-1.6.4-9.11.1.964-changelog.txt
+out/
